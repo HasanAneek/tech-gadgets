@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 100px;
+}
+p{
+    color: gray;
+}
+.buy{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card{
+    border: none;
+    /* box-shadow: 10px 10px 10px gray; */
+}
+.card img{
+    padding: 10px 20px;
+}
+.see{
+    text-decoration: none;
+    color: orange;
+    font: 700;
+}
+h5{
+    text-align: center;
+}
+.container .cat{
+    text-align: center;
+}
+.hand img{
+    width: 100%;
+}   
+.middle img{
+    width: 100px;
+}
+.category img{
+    box-shadow: 1px 1px 1px white;
+}
+.category .spc{
+    margin-top: 50px;
+}
+footer{
+    text-align: center;
+}
+.cat{
+    border-color: #FF9C35;
+}
